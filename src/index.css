@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --sf-gold: #d6a24c; }
+
+html, body, #root { height: 100%; }
