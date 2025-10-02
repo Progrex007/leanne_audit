@@ -3,3 +3,4 @@ node_module/
 dist/
 .vercel/
 .env
+node_modules/
